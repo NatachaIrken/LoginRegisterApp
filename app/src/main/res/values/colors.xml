@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary_500">#FF5722</color>
+    <color name="primary_700">#E64A19</color>
+    <color name="accent_200">#FFC107</color>
+    <color name="white">#F0F0F0</color>
+    <color name="black">#121212</color>
+</resources>

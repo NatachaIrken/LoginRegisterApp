@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="login_activity_label">Inicio de Sesión</string>
+    <string name="notes_activity_label">Mis Notas</string>
+</resources>

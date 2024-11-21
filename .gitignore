@@ -1,0 +1,13 @@
+# Archivos de configuración local
+/local.properties
+
+# Caché y compilación
+/.gradle/
+/build/
+
+# Configuración de Android Studio
+/.idea/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
